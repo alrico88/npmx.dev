@@ -586,8 +586,8 @@
     "timeline": {
       "load_more": "Cargar más",
       "load_error": "Error al cargar la línea temporal. Inténtalo de nuevo más tarde.",
-      "size_increase": "Tamaño de instalación aumentado un {percent} ({size})",
-      "size_decrease": "Tamaño de instalación reducido un {percent} ({size})",
+      "size_increase": "Tamaño de instalación aumentado un {percent}% ({size})",
+      "size_decrease": "Tamaño de instalación reducido un {percent}% ({size})",
       "dep_increase": "{count} dependencias añadidas",
       "dep_decrease": "{count} dependencias eliminadas",
       "license_change": "Licencia cambiada de {from} a {to}",
